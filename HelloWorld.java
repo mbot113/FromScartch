@@ -1,4 +1,5 @@
 /*Check if this change will be displayed with pull!*/
+/*Change at GitHub!*/
 public class HelloWorld {
 
     private int myNumber;
